@@ -1,5 +1,11 @@
 [
   {
+    "name": "product",
+    "path": "/product",
+    "component": "C:\\\\Users\\\\msi\\\\Downloads\\\\Github\\\\movies-store\\\\pages\\\\product.vue",
+    "chunkName": "pages/product"
+  },
+  {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\msi\\\\Downloads\\\\Github\\\\movies-store\\\\pages\\\\index.vue",
